@@ -1,0 +1,15 @@
+{
+  "name": "luma-hosts-blocklist",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Luma",
+  "license": "MIT",
+  "engines": {
+    "npm": "use yarn"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4"
+  }
+}
