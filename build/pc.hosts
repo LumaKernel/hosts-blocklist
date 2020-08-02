@@ -7,6 +7,7 @@
 0.0.0.0 asagei.biz
 0.0.0.0 asahi.com
 0.0.0.0 asajo.jp
+0.0.0.0 ascii.jp
 0.0.0.0 ashi-tano.jp
 0.0.0.0 badvugum.com
 0.0.0.0 bbc.com
@@ -21,6 +22,7 @@
 0.0.0.0 buzzmag.jp
 0.0.0.0 cat-and-something.com
 0.0.0.0 cc.minkabu.jp
+0.0.0.0 chugoku-np.co.jp
 0.0.0.0 chunichi.co.jp
 0.0.0.0 cifty.com
 0.0.0.0 clip.narinari.com
@@ -32,6 +34,7 @@
 0.0.0.0 cyzo.com
 0.0.0.0 cyzowoman.com
 0.0.0.0 dailyportalz.jp
+0.0.0.0 dailyshincho.jp
 0.0.0.0 dengekionline.com
 0.0.0.0 diamond.jp
 0.0.0.0 dic.nicovideo.jp
@@ -44,6 +47,7 @@
 0.0.0.0 excite.co.jp
 0.0.0.0 facebook.com
 0.0.0.0 finance.yahoo.co.jp
+0.0.0.0 finders.me
 0.0.0.0 fnn.jp
 0.0.0.0 friday.kodansha.co.jp
 0.0.0.0 fujitv-view.jp
@@ -120,6 +124,7 @@
 0.0.0.0 oricon.co.jp
 0.0.0.0 peco-japan.com
 0.0.0.0 president.jp
+0.0.0.0 prtimes.jp
 0.0.0.0 qlife.jp
 0.0.0.0 r.nikkei.com
 0.0.0.0 r25.jp
@@ -139,6 +144,7 @@
 0.0.0.0 taishu.jp
 0.0.0.0 tenki.jp
 0.0.0.0 tetsudo-ch.com
+0.0.0.0 togetter.com
 0.0.0.0 tokyo-np.co.jp
 0.0.0.0 tokyoheadline.com
 0.0.0.0 toyokeizai.net
@@ -149,6 +155,7 @@
 0.0.0.0 weathernews.jp
 0.0.0.0 web.playerapp.tokyo
 0.0.0.0 webtan.impress.co.jp
+0.0.0.0 wezz-y.com
 0.0.0.0 wired.jp
 0.0.0.0 www.afpbb.com
 0.0.0.0 www.agara.co.jp
@@ -159,6 +166,7 @@
 0.0.0.0 www.asagei.biz
 0.0.0.0 www.asahi.com
 0.0.0.0 www.asajo.jp
+0.0.0.0 www.ascii.jp
 0.0.0.0 www.ashi-tano.jp
 0.0.0.0 www.badvugum.com
 0.0.0.0 www.bbc.com
@@ -173,6 +181,7 @@
 0.0.0.0 www.buzzmag.jp
 0.0.0.0 www.cat-and-something.com
 0.0.0.0 www.cc.minkabu.jp
+0.0.0.0 www.chugoku-np.co.jp
 0.0.0.0 www.chunichi.co.jp
 0.0.0.0 www.cifty.com
 0.0.0.0 www.clip.narinari.com
@@ -184,6 +193,7 @@
 0.0.0.0 www.cyzo.com
 0.0.0.0 www.cyzowoman.com
 0.0.0.0 www.dailyportalz.jp
+0.0.0.0 www.dailyshincho.jp
 0.0.0.0 www.dengekionline.com
 0.0.0.0 www.diamond.jp
 0.0.0.0 www.dic.nicovideo.jp
@@ -196,6 +206,7 @@
 0.0.0.0 www.excite.co.jp
 0.0.0.0 www.facebook.com
 0.0.0.0 www.finance.yahoo.co.jp
+0.0.0.0 www.finders.me
 0.0.0.0 www.fnn.jp
 0.0.0.0 www.friday.kodansha.co.jp
 0.0.0.0 www.fujitv-view.jp
@@ -272,6 +283,7 @@
 0.0.0.0 www.oricon.co.jp
 0.0.0.0 www.peco-japan.com
 0.0.0.0 www.president.jp
+0.0.0.0 www.prtimes.jp
 0.0.0.0 www.qlife.jp
 0.0.0.0 www.r.nikkei.com
 0.0.0.0 www.r25.jp
@@ -291,6 +303,7 @@
 0.0.0.0 www.taishu.jp
 0.0.0.0 www.tenki.jp
 0.0.0.0 www.tetsudo-ch.com
+0.0.0.0 www.togetter.com
 0.0.0.0 www.tokyo-np.co.jp
 0.0.0.0 www.tokyoheadline.com
 0.0.0.0 www.toyokeizai.net
@@ -301,11 +314,13 @@
 0.0.0.0 www.weathernews.jp
 0.0.0.0 www.web.playerapp.tokyo
 0.0.0.0 www.webtan.impress.co.jp
+0.0.0.0 www.wezz-y.com
 0.0.0.0 www.wired.jp
 0.0.0.0 www.www3.nhk.or.jp
 0.0.0.0 www.www9.nhk.or.jp
 0.0.0.0 www.yahoo.co.jp
 0.0.0.0 www.yahoo.com
+0.0.0.0 www.yomiuri.co.jp
 0.0.0.0 www.ytranking.net
 0.0.0.0 www.yukawanet.com
 0.0.0.0 www.zuuonline.com
@@ -313,6 +328,7 @@
 0.0.0.0 www9.nhk.or.jp
 0.0.0.0 yahoo.co.jp
 0.0.0.0 yahoo.com
+0.0.0.0 yomiuri.co.jp
 0.0.0.0 ytranking.net
 0.0.0.0 yukawanet.com
 0.0.0.0 zuuonline.com

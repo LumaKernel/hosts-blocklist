@@ -81,4 +81,11 @@ news.nicovideo.jp
 newsweekjapan.jp
 entamega.com
 
-
+dailyshincho.jp
+wezz-y.com
+finders.me
+chugoku-np.co.jp
+yomiuri.co.jp
+togetter.com
+prtimes.jp
+ascii.jp
