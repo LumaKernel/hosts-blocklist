@@ -9,6 +9,8 @@ togetter.com
 anond.hatelabo.jp
 b.hatena.ne.jp
 
+dailymotion.com
+
 # 2ch とか
 5ch.net
 medaka.5ch.net
