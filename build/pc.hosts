@@ -1,6 +1,8 @@
 0.0.0.0 2ch-matome.net
+0.0.0.0 2ch-matomet-zazen.com
 0.0.0.0 2ch.0726.biz
 0.0.0.0 2ch.sc
+0.0.0.0 2ch.vet
 0.0.0.0 2chcopipe.com
 0.0.0.0 2chmm.com
 0.0.0.0 2nn.jp
@@ -36,6 +38,7 @@
 0.0.0.0 badvugum.com
 0.0.0.0 baiku-sokuho.info
 0.0.0.0 bbc.com
+0.0.0.0 beasoku.com
 0.0.0.0 bipblog.com
 0.0.0.0 biz-journal.jp
 0.0.0.0 blog.esuteru.com
@@ -119,6 +122,7 @@
 0.0.0.0 growth-ma.jp
 0.0.0.0 gunosy.com
 0.0.0.0 gurum.biz
+0.0.0.0 h2ch.com
 0.0.0.0 hackadoll.com
 0.0.0.0 hamusoku.com
 0.0.0.0 hatenanews.com
@@ -135,9 +139,12 @@
 0.0.0.0 huyosoku.com
 0.0.0.0 i2chmeijin.blog.fc2.com
 0.0.0.0 ideal2ch.livedoor.biz
+0.0.0.0 ikioi2ch.net
 0.0.0.0 inazumanews2.com
 0.0.0.0 instagram.com
+0.0.0.0 it-ch.jp
 0.0.0.0 itaishinja.com
+0.0.0.0 itest.5ch.net
 0.0.0.0 itmedia.co.jp
 0.0.0.0 iza.ne.jp
 0.0.0.0 j-cast.com
@@ -145,6 +152,7 @@
 0.0.0.0 japan.techinsight.jp
 0.0.0.0 japanese.engadget.com
 0.0.0.0 jcnews.tokyo
+0.0.0.0 jisaka.com
 0.0.0.0 jisaku4.memo.wiki
 0.0.0.0 jiwachan.net
 0.0.0.0 joker004.blog.fc2.com
@@ -167,9 +175,11 @@
 0.0.0.0 kotaro269.com
 0.0.0.0 kuromacyo.livedoor.biz
 0.0.0.0 kurumachannel.com
+0.0.0.0 kyodemo.net
 0.0.0.0 labo.tv
 0.0.0.0 lamsect.blog112.fc2.com
 0.0.0.0 lancers.jp
+0.0.0.0 leia.5ch.net
 0.0.0.0 lifehack2ch.livedoor.biz
 0.0.0.0 lifehacker.jp
 0.0.0.0 limia.jp
@@ -187,6 +197,7 @@
 0.0.0.0 matomeyomi.biz
 0.0.0.0 medaka.5ch.net
 0.0.0.0 mens-fashion.blog.jp
+0.0.0.0 mevius.5ch.net
 0.0.0.0 michaelsan.livedoor.biz
 0.0.0.0 military38.com
 0.0.0.0 mindhack2ch.com
@@ -229,6 +240,7 @@
 0.0.0.0 news4vip.livedoor.biz
 0.0.0.0 news4wide.net
 0.0.0.0 newsdigest.jp
+0.0.0.0 newsoku.blog
 0.0.0.0 newspicks.com
 0.0.0.0 newsweekjapan.jp
 0.0.0.0 nhk.or.jp
@@ -260,6 +272,8 @@
 0.0.0.0 ouchinews.doorblog.jp
 0.0.0.0 outdoormatome.com
 0.0.0.0 peco-japan.com
+0.0.0.0 pg-matome.blog.jp
+0.0.0.0 pmi-sfbac.org
 0.0.0.0 pokemongo-master.com
 0.0.0.0 president.jp
 0.0.0.0 prtimes.jp
@@ -292,6 +306,8 @@
 0.0.0.0 ssnp.co.jp
 0.0.0.0 t.pia.jp
 0.0.0.0 taishu.jp
+0.0.0.0 tamae.5ch.net
+0.0.0.0 tarikin.net
 0.0.0.0 teibansite.jp
 0.0.0.0 tenki.jp
 0.0.0.0 tetsudo-ch.com
@@ -326,8 +342,10 @@
 0.0.0.0 world-fusigi.net
 0.0.0.0 wowma.jp
 0.0.0.0 www.2ch-matome.net
+0.0.0.0 www.2ch-matomet-zazen.com
 0.0.0.0 www.2ch.0726.biz
 0.0.0.0 www.2ch.sc
+0.0.0.0 www.2ch.vet
 0.0.0.0 www.2chcopipe.com
 0.0.0.0 www.2chmm.com
 0.0.0.0 www.2nn.jp
@@ -363,6 +381,7 @@
 0.0.0.0 www.badvugum.com
 0.0.0.0 www.baiku-sokuho.info
 0.0.0.0 www.bbc.com
+0.0.0.0 www.beasoku.com
 0.0.0.0 www.bipblog.com
 0.0.0.0 www.biz-journal.jp
 0.0.0.0 www.blog.esuteru.com
@@ -446,6 +465,7 @@
 0.0.0.0 www.growth-ma.jp
 0.0.0.0 www.gunosy.com
 0.0.0.0 www.gurum.biz
+0.0.0.0 www.h2ch.com
 0.0.0.0 www.hackadoll.com
 0.0.0.0 www.hamusoku.com
 0.0.0.0 www.hatenanews.com
@@ -462,9 +482,12 @@
 0.0.0.0 www.huyosoku.com
 0.0.0.0 www.i2chmeijin.blog.fc2.com
 0.0.0.0 www.ideal2ch.livedoor.biz
+0.0.0.0 www.ikioi2ch.net
 0.0.0.0 www.inazumanews2.com
 0.0.0.0 www.instagram.com
+0.0.0.0 www.it-ch.jp
 0.0.0.0 www.itaishinja.com
+0.0.0.0 www.itest.5ch.net
 0.0.0.0 www.itmedia.co.jp
 0.0.0.0 www.iza.ne.jp
 0.0.0.0 www.j-cast.com
@@ -472,6 +495,7 @@
 0.0.0.0 www.japan.techinsight.jp
 0.0.0.0 www.japanese.engadget.com
 0.0.0.0 www.jcnews.tokyo
+0.0.0.0 www.jisaka.com
 0.0.0.0 www.jisaku4.memo.wiki
 0.0.0.0 www.jiwachan.net
 0.0.0.0 www.joker004.blog.fc2.com
@@ -494,9 +518,11 @@
 0.0.0.0 www.kotaro269.com
 0.0.0.0 www.kuromacyo.livedoor.biz
 0.0.0.0 www.kurumachannel.com
+0.0.0.0 www.kyodemo.net
 0.0.0.0 www.labo.tv
 0.0.0.0 www.lamsect.blog112.fc2.com
 0.0.0.0 www.lancers.jp
+0.0.0.0 www.leia.5ch.net
 0.0.0.0 www.lifehack2ch.livedoor.biz
 0.0.0.0 www.lifehacker.jp
 0.0.0.0 www.limia.jp
@@ -514,6 +540,7 @@
 0.0.0.0 www.matomeyomi.biz
 0.0.0.0 www.medaka.5ch.net
 0.0.0.0 www.mens-fashion.blog.jp
+0.0.0.0 www.mevius.5ch.net
 0.0.0.0 www.michaelsan.livedoor.biz
 0.0.0.0 www.military38.com
 0.0.0.0 www.mindhack2ch.com
@@ -556,6 +583,7 @@
 0.0.0.0 www.news4vip.livedoor.biz
 0.0.0.0 www.news4wide.net
 0.0.0.0 www.newsdigest.jp
+0.0.0.0 www.newsoku.blog
 0.0.0.0 www.newspicks.com
 0.0.0.0 www.newsweekjapan.jp
 0.0.0.0 www.nhk.or.jp
@@ -587,6 +615,8 @@
 0.0.0.0 www.ouchinews.doorblog.jp
 0.0.0.0 www.outdoormatome.com
 0.0.0.0 www.peco-japan.com
+0.0.0.0 www.pg-matome.blog.jp
+0.0.0.0 www.pmi-sfbac.org
 0.0.0.0 www.pokemongo-master.com
 0.0.0.0 www.president.jp
 0.0.0.0 www.prtimes.jp
@@ -619,6 +649,8 @@
 0.0.0.0 www.ssnp.co.jp
 0.0.0.0 www.t.pia.jp
 0.0.0.0 www.taishu.jp
+0.0.0.0 www.tamae.5ch.net
+0.0.0.0 www.tarikin.net
 0.0.0.0 www.teibansite.jp
 0.0.0.0 www.tenki.jp
 0.0.0.0 www.tetsudo-ch.com

@@ -7,11 +7,16 @@ yahoo.co.jp
 yahoo.com
 togetter.com
 anond.hatelabo.jp
+b.hatena.ne.jp
 
 # 2ch とか
 5ch.net
 medaka.5ch.net
 egg.5ch.net
+tamae.5ch.net
+itest.5ch.net
+leia.5ch.net
+mevius.5ch.net
 2ch.sc
 
 labo.tv
@@ -244,3 +249,15 @@ find.5ch.net
 getpocket.com
 jisaku4.memo.wiki
 www.walmart.com
+pg-matome.blog.jp
+it-ch.jp
+2ch-matomet-zazen.com
+newsoku.blog
+beasoku.com
+pmi-sfbac.org
+kyodemo.net
+jisaka.com
+h2ch.com
+2ch.vet
+tarikin.net
+ikioi2ch.net
