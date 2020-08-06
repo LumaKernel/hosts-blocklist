@@ -8,6 +8,7 @@ yahoo.com
 togetter.com
 anond.hatelabo.jp
 b.hatena.ne.jp
+arufa.hatenablog.jp
 
 dailymotion.com
 
@@ -263,3 +264,5 @@ h2ch.com
 2ch.vet
 tarikin.net
 ikioi2ch.net
+
+den-deca.net
