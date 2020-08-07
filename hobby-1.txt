@@ -54,6 +54,7 @@ id_ID.facebook.com
 is_IS.facebook.com
 it_IT.facebook.com
 ja_JP.facebook.com
+ja_KS.facebook.com
 jv_ID.facebook.com
 ka_GE.facebook.com
 km_KH.facebook.com
