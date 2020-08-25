@@ -136,3 +136,5 @@ wanibooks-newscrunch.com
 parstoday.com
 jbpress.ismedia.jp
 milirepo.sabatech.jp
+
+msn.com
