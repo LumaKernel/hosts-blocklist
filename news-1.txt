@@ -138,3 +138,5 @@ jbpress.ismedia.jp
 milirepo.sabatech.jp
 
 msn.com
+www.mag2.com
+www.tokyo-sports.co.jp
