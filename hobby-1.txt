@@ -3,8 +3,6 @@ dic.nicovideo.jp
 anime.nicovideo.jp
 facebook.com
 instagram.com
-yahoo.co.jp
-yahoo.com
 togetter.com
 anond.hatelabo.jp
 arufa.hatenablog.jp
@@ -518,7 +516,6 @@ the-horse-racing.com
 blog-news.doorblog.jp
 headline.mtfj.net
 matomeantena.com
-moudamepo.com
 antenna.eroterest.net
 blog.livedoor.jp
 dvdrev.com
@@ -668,7 +665,6 @@ livedoor.blogimg.jp
 manga.nantoka-antenna.com
 matome.anime-antena.com
 matomeantena.com
-moudamepo.com
 news-select.net
 news.blogo.jp
 newser.cc
@@ -727,7 +723,6 @@ kita-kore.com
 livedoor.blogimg.jp
 matomeantena.com
 mtmx.jp
-newmofu.doorblog.jp
 newpuru.doorblog.jp
 newser.cc
 nullpoantenna.com
@@ -765,11 +760,9 @@ livejupiter.net
 livejupiter2.net
 matome-tarou.ldblog.jp
 matomeantena.com
-moudamepo.com
 nanj-matome.com
 nanj.an-matome.com
 nanjallstars.net
-newmofu.doorblog.jp
 news-choice.net
 news-three-stars.net
 nullpoantenna.com
@@ -833,12 +826,10 @@ inutomo11.com
 jupiteryakiu.com
 livedoor.blogimg.jp
 matome-plus.com
-moudamepo.com
 mtmx.jp
 nanj.an-matome.com
 nanjallstars.net
 new-soku.net
-newmofu.doorblog.jp
 newser.cc
 nxcount.com
 owata-net.com
@@ -958,11 +949,9 @@ matometatta-news.net
 merry-news.com
 minnano.matometa-antenna.com
 mobantenna.com
-moudamepo.com
 mtmx.jp
 nekowan.com
 new-soku.net
-newmofu.doorblog.jp
 newpuru.doorblog.jp
 news-choice.net
 news-select.net
@@ -996,7 +985,6 @@ blogroll.livedoor.net
 ge-mag.up.seesaa.net
 get2ch.net
 headline.mtfj.net
-moudamepo.com
 newser.cc
 sda.seesaa.jp
 swallow.5ch.net
@@ -1012,9 +1000,7 @@ kojikisokuhou.com
 matomesakura.com
 military38.com
 mindhack2ch.com
-moudamepo.com
 nekomemo.com
-newmofu.doorblog.jp
 niccorin.com
 nullpoantenna.com
 plus.google.com
@@ -1060,7 +1046,6 @@ nanj.5chmap.com
 nanj.an-matome.com
 nanj.matome-ch.com
 nanjallstars.net
-newmofu.doorblog.jp
 newpuru.doorblog.jp
 news-pod.net
 newser.cc

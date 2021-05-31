@@ -15,7 +15,6 @@ news.tbs.co.jp
 news.tv-asahi.co.jp
 news.yahoo.co.jp
 newspicks.com
-toyokeizai.net
 www.excite.co.jp
 www.fnn.jp
 www.msn.com
@@ -71,7 +70,6 @@ wired.jp
 www.ashi-tano.jp
 www.buzzfeed.com
 www.gizmodo.jp
-www.lifehacker.jp
 www.morningstar.co.jp
 www.msn.com
 www.mylohas.net
