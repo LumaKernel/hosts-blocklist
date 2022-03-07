@@ -1,4 +1,4 @@
 # PC 向けのプロファイル
 
-hobby 1
+hobby 2
 news 1
